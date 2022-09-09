@@ -1,0 +1,9 @@
+#Copy code from remote repository: Clone
+git clone remote-repository-url
+
+#Git Commands
+1. git status --> List outs no of changes: UnStagged changes
+2. git add -- file name --> List outs the changes that are decided to proceed : Stagged changes
+3. git commit -m "<message content>" -- > couple the changes and keep it in your system with an option of reverting 
+4. git pull / git pull - r --> get the latest version of code that is there in remote-repository
+5. git push --> sending our code into remote-repository
