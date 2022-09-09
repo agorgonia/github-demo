@@ -7,3 +7,4 @@ git clone remote-repository-url
 3. git commit -m "<message content>" -- > couple the changes and keep it in your system with an option of reverting 
 4. git pull / git pull - r --> get the latest version of code that is there in remote-repository
 5. git push --> sending our code into remote-repository
+6.
